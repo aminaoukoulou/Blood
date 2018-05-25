@@ -104,18 +104,6 @@ nav>ul>li:hover {
     color: #fff;
 }
 
-.hamburger-menu {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    width: 60px;
-    height: 15vh;
-    cursor: pointer;
-}
-
 .bar,
 .bar:after,
 .bar:before {
@@ -211,7 +199,7 @@ form {
     font-size: 18px;
     border-radius: 5px;
     line-height: 22px;
-    background-color:#f5deb380;
+    background-color:#ffffff;;
     border:2px solid #CC6666;
     transition: all 0.3s;
     padding: 13px;

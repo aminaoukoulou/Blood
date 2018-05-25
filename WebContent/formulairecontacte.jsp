@@ -30,7 +30,7 @@
          <h2>Formulaire de contact</h2>
             <input name="name" type="text" class="feedback-input" placeholder="Nom" /> 
             <input name="email" type="text" class="feedback-input" placeholder="Email" /> 
-            <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+            <textarea name="message" type="text" class="feedback-input" placeholder="message"></textarea>
             <input type="submit" value="SUBMIT"/>
         </form>
         
